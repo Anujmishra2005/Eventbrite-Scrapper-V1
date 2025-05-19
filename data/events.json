@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sydney Music Festival",
+    "date": "2025-06-01",
+    "venue": "Sydney Opera House",
+    "url": "https://example.com/sydney-music-festival"
+  },
+  {
+    "name": "Tech Expo 2025",
+    "date": "2025-06-10",
+    "venue": "ICC Sydney",
+    "url": "https://example.com/tech-expo"
+  }
+]
